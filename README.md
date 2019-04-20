@@ -12,3 +12,9 @@ https://github.com/SFL-Master/esx_nightclub
 
 - Add working LCD/Tv Screens to the Nithclub 
 - Add working Teleporters for the Nightclub
+
+add to server.cfg
+
+start FiveM_NightclubAddon
+
+(you can rename Folder)
