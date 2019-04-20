@@ -11,7 +11,7 @@ Citizen.CreateThread(function()
 	end
 end)
 
--- Keep the same name as in the config.lua
+-- same as in the config.lua
 AddEventHandler('tp:hasEnteredMarker', function(zone)
 	
 	if zone == 'NightclubEnter' then
