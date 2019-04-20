@@ -3,7 +3,7 @@ Config = {}
 --C
 Config.actionKey = 26
 
--- markers
+-- Marker
 Config.zones = {
 
 	NightclubEnter = {
@@ -37,7 +37,7 @@ Config.zones = {
 	},
 }
 
--- Landing point, keep the same name as markers
+--L
 Config.point = {
 
 	NightclubEnter = {
@@ -54,7 +54,7 @@ Config.point = {
 }
 
 
--- Automatic teleport list
+-- Automatic teleport
 Config.auto = {
 	'Nightclub',
 	'NightclubEnter',
