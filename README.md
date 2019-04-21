@@ -18,6 +18,6 @@
 
 **add to server.cfg**
 ```
-start FiveM_NightclubAddon
+start esx_nightclubaddon
 ```
 (you can rename folder)
