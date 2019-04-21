@@ -1,10 +1,13 @@
 # FiveM Nightclub-Teleporters / Interior / Screens
 
-Requirements:
-https://github.com/Bob74/bob74_ipl
+**Requirements:**
+[IPL Pack] https://github.com/Bob74/bob74_ipl
 
-Recommended:
-https://github.com/SFL-Master/esx_nightclub
+**Recommended:**
+[NPCAddon] https://github.com/SFL-Master/Peds
+
+**Optional (ESX JOB):**
+[esx_nightclub] https://github.com/SFL-Master/esx_nightclub
 
 - You can customize the nightclub in the "nightclub.lua" 
 
