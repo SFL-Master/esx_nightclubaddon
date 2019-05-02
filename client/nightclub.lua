@@ -46,8 +46,6 @@ Citizen.CreateThread(function()
 	AfterHoursNightclubs.Interior.Lights.Droplets.Set(AfterHoursNightclubs.Interior.Lights.Droplets.green, true)
 	AfterHoursNightclubs.Interior.Lights.Droplets.Set(AfterHoursNightclubs.Interior.Lights.Droplets.purple, true)
 	AfterHoursNightclubs.Interior.Lights.Droplets.Set(AfterHoursNightclubs.Interior.Lights.Droplets.yellow, true)
-	--Screen--
-	AfterHoursNightclubs.Interior.Lights.Screen.Set(AfterHoursNightclubs.Interior.Lights.Screen.solomun, true)
    
    -- Details
    --AfterHoursNightclubs.Interior.Details.Enable(true)
