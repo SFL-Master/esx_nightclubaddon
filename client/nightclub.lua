@@ -1,7 +1,9 @@
 
 Citizen.CreateThread(function()
     -- Getting the object to interact with
+    Citizen.Wait(1000)		
     AfterHoursNightclubs = exports['bob74_ipl']:GetAfterHoursNightclubsObject()
+    Citizen.Wait(1000)		
 
     -------------------------------------------
     -- Interior part
@@ -71,7 +73,7 @@ Citizen.CreateThread(function()
 
     -- La Mesa - Exterior
     -- No barriers
-    --AfterHoursNightclubs.Mesa.Barrier.Enable(false)
+    AfterHoursNightclubs.Mesa.Barrier.Enable(true)
 
     -- Only "For sale" poster
     AfterHoursNightclubs.Mesa.Posters.Enable(AfterHoursNightclubs.Posters.forSale, true)
